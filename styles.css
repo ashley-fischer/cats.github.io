@@ -102,7 +102,11 @@ footer a{
   color:#0576a9;
 }
 
-nav flex-column{
+.nav flex-column{
   width:30%;
   float:left;
+}
+
+.celebs{
+  width:60%;
 }
