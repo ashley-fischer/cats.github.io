@@ -1,0 +1,75 @@
+container{
+    max-width: 960px;
+    margin: 0 auto;
+}
+    p {
+      font-family: 'Manrope', sans-serif;
+    }
+    strong{font-weight:700;}
+
+    h1 {
+      font-size: 50px;
+      font-family: 'McLaren', cursive;
+      text-align: center;
+    }
+    
+    h2{width:100%;
+    border-bottom:2px solid #000;
+    line-height:0.1em;
+    margin:40px 0px 20px!important;}
+    
+    h2 span{background:#fff;
+    padding:0 10px 10px 0px;}
+
+    h3{font-size:20px;
+    font-weight:700;}
+   
+    h2,
+    h3 {
+      font-family: 'Manrope', sans-serif;
+      margin-top: 20px;
+    }
+
+    .nav {
+      margin-top: 20px;
+      margin-bottom: 40px;
+      font-family: 'Manrope', sans-serif;
+      font-weight: 700;
+    }
+    
+    a {
+      color: #96999c;
+    }
+    
+    .celeb{
+      font-size:20px;
+      font-weight:700;
+      font-family: 'Manrope', sans-serif;
+    }
+
+footer{
+   font-size:12px;
+   padding:20px 0px;
+   background-color:#E2E2E2;
+   text-align:center;
+}
+
+footer a{
+   color:#484747;
+   font-weight:700;
+}
+ footer p{
+    margin:0 auto;
+    width:80%;
+}
+.container{
+   max-width:960px;
+   margin:0 auto;
+}
+
+.grumpy-home{
+   max-width: 350px;
+    float: left;
+    padding-right: 20px;
+   padding-bottom:10px;
+}
