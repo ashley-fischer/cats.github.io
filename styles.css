@@ -81,8 +81,10 @@ footer a{
 .learn-more{
   width: 50%;
   text-align: center;
+  margin: 0 auto;
 }
 
 .learn-more li{
   list-style-type: none;
+  color: #000;
 }
