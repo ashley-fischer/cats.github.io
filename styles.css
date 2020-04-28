@@ -82,3 +82,7 @@ footer a{
   width: 50%;
   text-align: center;
 }
+
+.learn-more li{
+  list-style-type: none;
+}
