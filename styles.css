@@ -78,8 +78,7 @@ footer a{
   width:100%;
 }
 
-.banner{
-  padding-bottom:40px;
-  margin: 0 auto;
-  width: 100%;
+.learn-more{
+  width: 50%;
+  text-align: center;
 }
