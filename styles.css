@@ -38,7 +38,7 @@ container{
     }
     
     a {
-      color: #96999c;
+      color: #0576a9;
     }
     
     .celeb{
@@ -104,11 +104,11 @@ footer a{
 }
 
 ul.nav.flex-column{
-  width:30%;
+  width:25%;
   float:left;
 }
 
 .celebs{
-  width:60%;
+  width:70%;
   float:right;
 }
